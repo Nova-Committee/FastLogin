@@ -1,4 +1,4 @@
-package cn.evole.mods.fastlogin.api.security;
+package committee.nova.mods.fastlogin.api.security;
 
 /**
  * Author cnlimiter

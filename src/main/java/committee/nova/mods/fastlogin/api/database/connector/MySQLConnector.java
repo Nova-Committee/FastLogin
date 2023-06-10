@@ -1,4 +1,4 @@
-package cn.evole.mods.fastlogin.api.database.connector;
+package committee.nova.mods.fastlogin.api.database.connector;
 
 /**
  * Author cnlimiter

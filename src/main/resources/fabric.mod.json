@@ -13,7 +13,7 @@
   "environment": "server",
   "entrypoints": {
     "main": [
-      "cn.evole.mods.fastlogin.FastLogin"
+      "committee.nova.mods.fastlogin.FastLogin"
     ]
   },
   "mixins": [

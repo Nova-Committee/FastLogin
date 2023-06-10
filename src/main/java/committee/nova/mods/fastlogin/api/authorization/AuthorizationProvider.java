@@ -1,6 +1,6 @@
-package cn.evole.mods.fastlogin.api.authorization;
+package committee.nova.mods.fastlogin.api.authorization;
 
-import cn.evole.mods.fastlogin.api.database.User;
+import committee.nova.mods.fastlogin.api.database.User;
 
 /**
  * Author cnlimiter

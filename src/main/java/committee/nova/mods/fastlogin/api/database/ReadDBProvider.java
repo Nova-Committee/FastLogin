@@ -1,4 +1,4 @@
-package cn.evole.mods.fastlogin.api.database;
+package committee.nova.mods.fastlogin.api.database;
 
 import java.util.Collection;
 import java.util.UUID;

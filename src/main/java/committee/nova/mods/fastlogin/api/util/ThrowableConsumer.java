@@ -1,4 +1,4 @@
-package cn.evole.mods.fastlogin.api.util;
+package committee.nova.mods.fastlogin.api.util;
 
 public interface ThrowableConsumer<T, E extends Throwable> {
 

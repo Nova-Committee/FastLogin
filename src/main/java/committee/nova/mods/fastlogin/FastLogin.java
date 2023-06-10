@@ -1,4 +1,4 @@
-package cn.evole.mods.fastlogin;
+package committee.nova.mods.fastlogin;
 
 import net.fabricmc.api.ModInitializer;
 

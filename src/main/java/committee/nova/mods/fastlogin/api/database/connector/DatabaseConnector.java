@@ -1,7 +1,7 @@
-package cn.evole.mods.fastlogin.api.database.connector;
+package committee.nova.mods.fastlogin.api.database.connector;
 
-import cn.evole.mods.fastlogin.api.util.ThrowableConsumer;
-import cn.evole.mods.fastlogin.api.util.ThrowableFunction;
+import committee.nova.mods.fastlogin.api.util.ThrowableConsumer;
+import committee.nova.mods.fastlogin.api.util.ThrowableFunction;
 
 import java.sql.Connection;
 import java.sql.SQLException;

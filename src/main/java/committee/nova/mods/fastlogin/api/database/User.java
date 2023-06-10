@@ -1,6 +1,6 @@
-package cn.evole.mods.fastlogin.api.database;
+package committee.nova.mods.fastlogin.api.database;
 
-import cn.evole.mods.fastlogin.api.security.HashedPassword;
+import committee.nova.mods.fastlogin.api.security.HashedPassword;
 
 import java.sql.Timestamp;
 import java.util.UUID;
