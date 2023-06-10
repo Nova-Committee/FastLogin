@@ -1,4 +1,6 @@
-package committee.nova.mods.fastlogin.api.database;
+package committee.nova.mods.fastlogin.api.database.provider;
+
+import committee.nova.mods.fastlogin.api.database.User;
 
 import java.util.Collection;
 
